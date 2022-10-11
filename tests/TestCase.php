@@ -6,6 +6,9 @@ use jeremykenedy\LaravelRoles\RolesFacade;
 use jeremykenedy\LaravelRoles\RolesServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
+/**
+ * cambios
+ */
 class TestCase extends OrchestraTestCase
 {
     /**
